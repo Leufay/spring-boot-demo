@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "com.leofee.name",
+      "type": "java.lang.String",
+      "description": "Description for com.leofee.name."
+    },
+    {
+      "name": "com.leofee.age",
+      "type": "java.lang.String",
+      "description": "Description for com.leofee.age."
+    }
+  ]
+}
